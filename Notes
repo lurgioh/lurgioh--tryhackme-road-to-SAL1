@@ -1,1 +1,22 @@
+Offensive Security 
+-hacking first machine
+-We used Gobuster to bruteforce the Fakebanks website to find hidden directories and pages
+-opened termianl and typed in the command gobuster -u http://fakebank.thm -w wordlist.txt dir
+-the U is used to state the website we are scanning W takes a list of words to iterate through to find hidden pages
+-After the scan came back it said /bank-transfer (status: 200)
+-Now that we found the bank-transfer page we type that into the url and it brings us to the site to transfer
+-After gaining access to that page I was able to put in two bank numbers and transfer 2000 this is known vunerabilities/exploit which is something that needs to be reported
 
+Introduction to Defensive Security
+-Prenveting intrusion from occurring
+-Detecting intrusion when they occur and responding properly
+Tasks related to defensive security
+-User cyber security awareness: this is the process of training users about cyber security helps protect against any attacks targeting their systems
+-Documenting and managing assest: this is knowing the systems and devices that we must manage and protect 
+-Updating and patching systems: this ensures that the computers, servers, and netword devices are correctly updated which helps prevent waakness
+-Setting up preventative security devices: firewall and intrusion prevention systems (IPS) are critical componentes to prevetative security. Firewall control what network traffic
+enters the network. IPS blocks any network traffic that matches present rules and attack signatures
+-Setting up logging and monitoring devices: proper network logging and monitoring are essential for detecting malicious activies and intrusions. IF a new unauthorized devices appears on our network, we should detect it
+
+What is SOC?
+-
