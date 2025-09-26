@@ -7,7 +7,7 @@ This repo documents my hands-on learning journey in cybersecurity, focusing on s
 
 ## 📂 Repository Overview
 This repository contains:
-- **Notes**: Summaries and explanations from labs, courses, and exercises (TryHackMe, Google Cybersecurity, etc.).
+- **Notes**: Summaries and explanations from labs, courses, and exercises tryhackme.
 - **Walkthroughs**: Step-by-step documentation of completed labs, including methodology, screenshots, and analysis.
 - **Commands & Queries**: Common commands for Linux/Windows, Splunk queries, Sigma rules, and incident response workflows.
 - **Tools & Techniques**: Practical notes on SIEMs, log analysis, packet capture, forensics, and detection engineering.
